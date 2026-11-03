@@ -1,0 +1,11 @@
+# Eigene Daten bleiben lokal
+Sales/
+# Obsidian-Einstellungen
+.obsidian/
+# Python
+__pycache__/
+*.pyc
+# macOS
+.DS_Store
+# Claude Code lokale Einstellungen
+.claude/settings.local.json

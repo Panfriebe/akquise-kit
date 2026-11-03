@@ -1,0 +1,12 @@
+{
+  "tagesziel": 20,
+  "wochenlimit": 100,
+  "akquise_tage": [0, 1, 2, 3, 4],
+  "follow_up_werktage": 3,
+  "max_zeichen": 300,
+  "max_saetze": 2,
+  "anrede": "du",
+  "fachwoerter": [],
+  "themenwoerter": [],
+  "referenzwoerter": []
+}
